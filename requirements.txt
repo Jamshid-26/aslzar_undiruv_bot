@@ -1,3 +1,6 @@
 aiogram
 pandas
 openpyxl
+matplotlib
+reportlab
+apscheduler
